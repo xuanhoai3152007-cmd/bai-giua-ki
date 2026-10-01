@@ -2,9 +2,9 @@
 
 | Thông tin | Điền vào |
 |---|---|
-| Họ và tên | |
-| Mã số sinh viên | |
-| Số máy | |
+| Họ và tên | Nguyễn Xuân Hoài|
+| Mã số sinh viên |2401ITA011 |
+| Số máy |0702513209 |
 
 ## Chạy dự án
 
